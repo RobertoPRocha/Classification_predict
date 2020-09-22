@@ -1,0 +1,19 @@
+
+https://towardsdatascience.com/twitter-sentiment-analysis-classification-using-nltk-python-fa912578614c
+
+https://mc.ai/using-machine-learning-to-measure-user-sentiment-towards-climate-change/
+https://github.com/edwardcqian/climate_change_sentiment
+
+
+https://towardsdatascience.com/classifying-climate-change-tweets-8245450a5e96
+https://github.com/gravesa333/Classifying_Climate_Change_Tweets
+
+
+https://github.com/xolisa003/Personality-Profile-Prediction-/blob/master/MBTI/connoisseurs-foodies-notebook.ipynb
+
+https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk
+
+https://www.analyticsvidhya.com/blog/2018/07/hands-on-sentiment-analysis-dataset-python/
+https://github.com/prateekjoshi565/twitter_sentiment_analysis/blob/master/code_sentiment_analysis.ipynb
+
+https://www.kaggle.com/degravek/a-naive-bayes-tweet-classifier <-------------- starting point
